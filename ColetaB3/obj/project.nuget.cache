@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zl+WyoQPhJ+PdRv+x20GBMSp9Xu6m652AF78bNGvxkHNIcXOdp42xT1ZFizKY8ahV/8Ak+x9QM3a1F8ruOt1iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roger\\source\\repos\\ColetaB3\\ColetaB3\\ColetaB3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roger\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

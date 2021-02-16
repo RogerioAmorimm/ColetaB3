@@ -1,0 +1,15 @@
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\bin\Debug\netcoreapp3.1\ColetaB3.exe
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\bin\Debug\netcoreapp3.1\ColetaB3.deps.json
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\bin\Debug\netcoreapp3.1\ColetaB3.runtimeconfig.json
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\bin\Debug\netcoreapp3.1\ColetaB3.runtimeconfig.dev.json
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\bin\Debug\netcoreapp3.1\ColetaB3.dll
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\bin\Debug\netcoreapp3.1\ColetaB3.pdb
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.AssemblyInfo.cs
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.dll
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.pdb
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.genruntimeconfig.cache
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.csproj.CopyComplete
+C:\Users\roger\source\repos\ColetaB3\ColetaB3\obj\Debug\netcoreapp3.1\ColetaB3.csprojAssemblyReference.cache
