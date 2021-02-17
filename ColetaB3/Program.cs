@@ -23,10 +23,6 @@ namespace ColetaB3
 
             if (!doc.IsValid()) return;
 
-            //Console.WriteLine(datas.shareString);
-            //Console.WriteLine(datas.UpperLimit);
-            //Console.WriteLine(datas.InferiorLimit);
-            
             Share share;
             ICollect<Share> data = new DataCollect(datas.shareString);
 

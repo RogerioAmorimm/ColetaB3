@@ -29,7 +29,7 @@ namespace ColetaB3
                 this._emailSender.Subject = subject;
                 this._emailSender.Body = body;
                 sender.EnableSsl = true;
-                sender.Credentials = new NetworkCredential("testeinoa@gmail.com", "Ino@123456");
+                sender.Credentials = new NetworkCredential("", "");
                 await sender.SendMailAsync(this._emailSender);
                 return true;
             }
